@@ -1,0 +1,15 @@
+E:\self-study\.net\microservices\ecommerce\ecommerce\services\catalog\Catalog.Application\bin\Debug\net10.0\Catalog.Application.deps.json
+E:\self-study\.net\microservices\ecommerce\ecommerce\services\catalog\Catalog.Application\bin\Debug\net10.0\Catalog.Application.dll
+E:\self-study\.net\microservices\ecommerce\ecommerce\services\catalog\Catalog.Application\bin\Debug\net10.0\Catalog.Application.pdb
+E:\self-study\.net\microservices\ecommerce\ecommerce\services\catalog\Catalog.Application\bin\Debug\net10.0\Catalog.Core.dll
+E:\self-study\.net\microservices\ecommerce\ecommerce\services\catalog\Catalog.Application\bin\Debug\net10.0\Catalog.Core.pdb
+E:\self-study\.net\microservices\ecommerce\ecommerce\services\catalog\Catalog.Application\obj\Debug\net10.0\Catalog.Application.csproj.AssemblyReference.cache
+E:\self-study\.net\microservices\ecommerce\ecommerce\services\catalog\Catalog.Application\obj\Debug\net10.0\Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\self-study\.net\microservices\ecommerce\ecommerce\services\catalog\Catalog.Application\obj\Debug\net10.0\Catalog.Application.AssemblyInfoInputs.cache
+E:\self-study\.net\microservices\ecommerce\ecommerce\services\catalog\Catalog.Application\obj\Debug\net10.0\Catalog.Application.AssemblyInfo.cs
+E:\self-study\.net\microservices\ecommerce\ecommerce\services\catalog\Catalog.Application\obj\Debug\net10.0\Catalog.Application.csproj.CoreCompileInputs.cache
+E:\self-study\.net\microservices\ecommerce\ecommerce\services\catalog\Catalog.Application\obj\Debug\net10.0\Catalog..75771DFE.Up2Date
+E:\self-study\.net\microservices\ecommerce\ecommerce\services\catalog\Catalog.Application\obj\Debug\net10.0\Catalog.Application.dll
+E:\self-study\.net\microservices\ecommerce\ecommerce\services\catalog\Catalog.Application\obj\Debug\net10.0\refint\Catalog.Application.dll
+E:\self-study\.net\microservices\ecommerce\ecommerce\services\catalog\Catalog.Application\obj\Debug\net10.0\Catalog.Application.pdb
+E:\self-study\.net\microservices\ecommerce\ecommerce\services\catalog\Catalog.Application\obj\Debug\net10.0\ref\Catalog.Application.dll

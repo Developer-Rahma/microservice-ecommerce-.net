@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="C:\Users\ITS\Downloads\SeedData-20260921T142434Z-1-001\SeedData\brands.json" Link="Data\SeedData\brands.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="C:\Users\ITS\Downloads\SeedData-20260921T142434Z-1-001\SeedData\products.json" Link="Data\SeedData\products.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="C:\Users\ITS\Downloads\SeedData-20260921T142434Z-1-001\SeedData\types.json" Link="Data\SeedData\types.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AspNetCore.HealthChecks.MongoDb" Version="9.0.0" />
+    <PackageReference Include="MongoDB.Driver" Version="3.12.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Catalog.Application\Catalog.Application.csproj" />
+    <ProjectReference Include="..\Catalog.Core\Catalog.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\SeedData\" />
+  </ItemGroup>
+
+</Project>
